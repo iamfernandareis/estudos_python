@@ -3,4 +3,4 @@ O intuito do respositório é inicialmente demonstrar a compreensão da linguage
 
 📁 [Documentação Python](https://docs.python.org/pt-br/3/tutorial/).
 
-Resalto a importância dos estudos baseados na documentação base do Python para melhor compreensão e aprofundamento dos estudos.
+Ressalto a importância dos estudos baseados na documentação base do Python para melhor compreensão e aprofundamento dos estudos.
